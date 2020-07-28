@@ -1,0 +1,79 @@
+{
+    "extension": "ncu-proj",
+    "files": [
+        {
+            "is_open": true,
+            "path": "../../../PaperImplementation/profile/computeMinMax.ncu-rep"
+        },
+        {
+            "is_open": true,
+            "path": "computeMinMax.ncu-rep"
+        },
+        {
+            "path": "computeMinMax1024.ncu-rep"
+        },
+        {
+            "path": "computeMinMax2048.ncu-rep"
+        },
+        {
+            "path": "computeMinMax1024Lv1.ncu-rep"
+        },
+        {
+            "path": "compating1024Lv1.ncu-rep"
+        },
+        {
+            "path": "computeMinMax1024Lv2.ncu-rep"
+        },
+        {
+            "path": "compating1024Lv2.ncu-rep"
+        }
+    ],
+    "launcher": {
+        "activity/interactiveprofile/cachecontrol": "Flush All",
+        "activity/interactiveprofile/clockcontrol": "Base",
+        "activity/interactiveprofile/disableprofilingstartstop": false,
+        "activity/interactiveprofile/enablenvtxsupport": false,
+        "activity/interactiveprofile/enableprofilingfromstart": true,
+        "activity/profile/applyrules": true,
+        "activity/profile/cachecontrol": "Flush All",
+        "activity/profile/clockcontrol": "Base",
+        "activity/profile/disableprofilingstartstop": false,
+        "activity/profile/enablenvtxsupport": false,
+        "activity/profile/enableprofilingfromstart": true,
+        "activity/profile/forceoverwrite": true,
+        "activity/profile/kernelid": "",
+        "activity/profile/kernelregex": "",
+        "activity/profile/kernelregexbase": "Function",
+        "activity/profile/launchcapturecount": "0",
+        "activity/profile/launchskipbeforematchcount": "0",
+        "activity/profile/launchskipcount": "0",
+        "activity/profile/metrics": "",
+        "activity/profile/nvtxincludeexcludeoptions": "",
+        "activity/profile/outputfile": "",
+        "activity/profile/samplingBufferSize": "33554432",
+        "activity/profile/samplingInterval": "5",
+        "activity/profile/samplingIntervalAuto": true,
+        "activity/profile/samplingMaxPasses": "5",
+        "activity/profile/targetprocesses": "Application Only",
+        "platform/linux (x86_64)/device": "",
+        "platform/linux/arguments": "",
+        "platform/linux/autoconnect": true,
+        "platform/linux/environment": "",
+        "platform/linux/executable": "",
+        "platform/linux/workingdir": "",
+        "platform/win32/arguments": "",
+        "platform/win32/autoconnect": true,
+        "platform/win32/environment": "",
+        "platform/win32/executable": "E:/files/C++/CUDA/MarchingCubes/PMB/x64/Release/PMB.exe",
+        "platform/win32/executable/history": [
+            "E:/files/C++/CUDA/MarchingCubes/PMB/x64/Release/PMB.exe"
+        ],
+        "platform/win32/workingdir": "E:/files/C++/CUDA/MarchingCubes/PMB/PMB/profile/PMB",
+        "platform/win32/workingdir/history": [
+            "E:/files/C++/CUDA/MarchingCubes/PMB/PMB/profile/PMB"
+        ],
+        "platform/windows/device": "localhost"
+    },
+    "uuid": "{e6e35041-4060-4f96-8e3d-43bf6ee08bd2}",
+    "version": "1.0"
+}

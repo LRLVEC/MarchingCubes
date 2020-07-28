@@ -1,0 +1,14 @@
+This is a list which specifies how shaders are
+attached to programs...
+The gramma is just like below...
+
+Program:	Triangle
+{
+	Vertex		0
+	Fragment	0
+}
+
+
+
+
+

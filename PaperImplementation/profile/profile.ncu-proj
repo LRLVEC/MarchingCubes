@@ -1,0 +1,81 @@
+{
+    "extension": "ncu-proj",
+    "files": [
+        {
+            "path": "C:/Users/0/Desktop/computeMinMax.ncu-rep"
+        },
+        {
+            "path": "computeMinMax.ncu-rep"
+        },
+        {
+            "path": "compating1024.ncu-rep"
+        },
+        {
+            "is_open": true,
+            "path": "computeMinMax1024.ncu-rep"
+        },
+        {
+            "path": "../../PMB/profile/PMB/computeMinMax1024Lv1.ncu-rep"
+        },
+        {
+            "path": "../../PMB/profile/PMB/compating1024Lv1.ncu-rep"
+        },
+        {
+            "path": "../../PMB/profile/PMB/compating1024Lv2.ncu-rep"
+        },
+        {
+            "path": "../../PMB/profile/PMB/computeMinMax1024Lv2.ncu-rep"
+        }
+    ],
+    "launcher": {
+        "activity/interactiveprofile/cachecontrol": "Flush All",
+        "activity/interactiveprofile/clockcontrol": "Base",
+        "activity/interactiveprofile/disableprofilingstartstop": false,
+        "activity/interactiveprofile/enablenvtxsupport": false,
+        "activity/interactiveprofile/enableprofilingfromstart": true,
+        "activity/profile/applyrules": true,
+        "activity/profile/cachecontrol": "Flush All",
+        "activity/profile/clockcontrol": "Base",
+        "activity/profile/disableprofilingstartstop": false,
+        "activity/profile/enablenvtxsupport": false,
+        "activity/profile/enableprofilingfromstart": true,
+        "activity/profile/forceoverwrite": true,
+        "activity/profile/kernelid": "",
+        "activity/profile/kernelregex": "",
+        "activity/profile/kernelregexbase": "Function",
+        "activity/profile/launchcapturecount": "0",
+        "activity/profile/launchskipbeforematchcount": "0",
+        "activity/profile/launchskipcount": "0",
+        "activity/profile/metrics": "",
+        "activity/profile/nvtxincludeexcludeoptions": "",
+        "activity/profile/outputfile": "",
+        "activity/profile/samplingBufferSize": "33554432",
+        "activity/profile/samplingInterval": "5",
+        "activity/profile/samplingIntervalAuto": true,
+        "activity/profile/samplingMaxPasses": "5",
+        "activity/profile/targetprocesses": "Application Only",
+        "platform/linux (x86_64)/device": "",
+        "platform/linux/arguments": "",
+        "platform/linux/autoconnect": true,
+        "platform/linux/environment": "",
+        "platform/linux/executable": "",
+        "platform/linux/workingdir": "",
+        "platform/win32/arguments": "10 10 10",
+        "platform/win32/arguments/history": [
+            "10 10 10"
+        ],
+        "platform/win32/autoconnect": true,
+        "platform/win32/environment": "",
+        "platform/win32/executable": "E:/OneDrive/教程/GPU/CUDA/PMB/cgf12897-sup-0002-s1/Executable program/MC.exe",
+        "platform/win32/executable/history": [
+            "E:/OneDrive/教程/GPU/CUDA/PMB/cgf12897-sup-0002-s1/Executable program/MC.exe"
+        ],
+        "platform/win32/workingdir": "",
+        "platform/win32/workingdir/history": [
+            "E:/OneDrive/教程/GPU/CUDA/PMB/cgf12897-sup-0002-s1/Executable program/profile"
+        ],
+        "platform/windows/device": "localhost"
+    },
+    "uuid": "{9cfa8d27-9468-4f12-bb71-1b0df16f3c97}",
+    "version": "1.0"
+}
